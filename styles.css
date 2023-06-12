@@ -1,0 +1,27 @@
+#root{
+  background-color: rgb(96, 137, 137);
+}
+
+h2, h3 {
+  font-family: 'Space Mono', monospace;
+}
+
+label {
+  font-family: 'monospace';
+}
+
+select {
+  font-family: 'monospace';
+}
+
+select {
+    display: block;
+    margin-bottom: 20px;
+  }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
