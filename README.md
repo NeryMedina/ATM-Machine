@@ -1,4 +1,4 @@
-# ATM-Machine
+# Bad Bank
 
 ### Description
 This repository contains a ATM Machine application that keeps track and updates the users account balance according the deposit and cash back amount the user choses to do. 
@@ -6,8 +6,14 @@ This repository contains a ATM Machine application that keeps track and updates 
 ### How to run
 Download the files to your computer and run a live server through visual studio code.
 
+## Technology used
+Frontend: React.js, Redux
+Backend: Node.js, Express.js
+Database: MongoDB
+
 ### Roadmap of future improvements
-This project will improve by adding a 1234 pin/access code to being the process and pop-up questions asking "Do you wish to proceed?" when getting cash back.  
+Client UI: Enhance user experience, introduce biometric authentication, and personalized dashboards.
+Admin UI: Implement advanced analytics, multi-level access controls, and streamlined transaction oversight.
 
 ### License
 Copyright 2023 Nery Medina Tena
