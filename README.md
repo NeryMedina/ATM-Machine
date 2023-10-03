@@ -6,7 +6,7 @@ This repository contains a ATM Machine application that keeps track and updates 
 ### How to run
 Download the files to your computer and run a live server through visual studio code.
 
-## Technology used
+### Technology used
 Frontend: React.js, Redux
 Backend: Node.js, Express.js
 Database: MongoDB
